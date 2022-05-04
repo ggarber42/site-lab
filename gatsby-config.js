@@ -1,10 +1,10 @@
 module.exports = {
   // pathPrefix: '/gatsby-starter-scientist',
   siteMetadata: {
-    author: 'Diogenes Teufelsdröckh',
-    description: 'Transcendentalist musings on the future of robots',
-    siteUrl: 'https://knightjdr.github.io/gatsby-starter-scientist',
-    title: 'Teufelsdröckh laboratory',
+    author: 'Project Multinacional Laboratory',
+    description: 'a multinational research project for science',
+    siteUrl: 'https://multinacional-lab.netlify.app/',
+    title: 'Multinacional Laboratory',
     // List of link buttons to include on the landing image. Delete this field
     // and/or all entires if you do not want these links.
     // options: 'contact', 'opportunities', 'people', 'publications', 'research'
